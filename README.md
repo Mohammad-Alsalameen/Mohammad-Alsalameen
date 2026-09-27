@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Mohammad Al-Salameen 👋
 
-<!--
-**Mohammad-Alsalameen/Mohammad-Alsalameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science | Artificial Intelligence & Data Science Graduate
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate specializing in Artificial Intelligence and Data Science, with an interest in building practical solutions using data, machine learning, and modern technologies.
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence & Machine Learning
+📊 Interested in Data Science & Data Analytics
+☁️ Currently learning Cloud Computing & Azure
+🧠 Exploring AI Agents & Agentic AI
+
+🏆 Certification
+
+Microsoft Azure Data Fundamentals (DP-900)
+
+📫 Connect with me
+Email: [
