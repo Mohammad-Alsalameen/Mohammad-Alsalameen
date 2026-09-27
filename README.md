@@ -15,4 +15,4 @@ I'm a Computer Science graduate specializing in Artificial Intelligence and Data
 Microsoft Azure Data Fundamentals (DP-900)
 
 📫 Connect with me
-Email: [
+Email: [alsalameenmohammad727@gmail.com]
